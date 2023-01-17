@@ -1,2 +1,1 @@
-# chatpgt-fastapi-animals
-Creating a simple FastAPI with ChatGPT
+# Creating a simple FastAPI with ChatGPT
